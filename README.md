@@ -59,7 +59,7 @@ Esta ferramenta web permite adicionar números às páginas de arquivos PDF de m
 6. Acesse a aplicação no navegador:
 
     ```bash
-   [pip install -r requirements.txt](http://127.0.0.1:8000)s
+   http://127.0.0.1:8000
 
    
 
