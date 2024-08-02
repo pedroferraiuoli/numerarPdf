@@ -1,0 +1,66 @@
+
+body{
+  font-family: 'Inter', sans-serif;
+  color: #ffffff;
+  max-width: 1920px;
+  background-color: #003049;
+  margin: 0 auto;
+}
+
+.container {
+  border: #ffffff solid 1px;
+  border-radius: 15px;
+  margin-top: 0;
+  margin-bottom: 2%;
+  max-width: 96%;
+}
+
+form{
+  padding: 2%;
+  display: block;
+  margin: 1% auto;
+}
+
+form div{
+  margin: 1%;
+}
+
+.title {
+  margin-top: 2rem;
+}
+
+#pdfForm {
+  padding-bottom: 1rem;
+}
+
+#pdf_file {
+  width: 44rem;
+}
+
+.form-labell {
+  width: 100%; 
+  text-align: left; 
+  min-width: max-content;
+  align-self: center;
+}
+
+.btn {
+  width: 42.45rem;
+}
+
+#loading {
+  place-content: center;
+  font-size: x-large; 
+  margin-bottom: auto;
+}
+
+#normal {
+  place-content: center;
+  font-size: x-large; 
+  margin-bottom: auto; 
+  padding-top: 5px;
+}
+
+
+
+
