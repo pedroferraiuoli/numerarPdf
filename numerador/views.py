@@ -30,7 +30,7 @@ class NumerarPdfView(TemplateView):
                 return response
             except Exception:
                 messages.warning(request, 'Erro! Tente novamente')
-                return redirect("/numerarPdf")
+                return redirect("/")
 
     def create_page_pdf(self, num, tmp, page_sizes, pagina, posicao=None):
 
