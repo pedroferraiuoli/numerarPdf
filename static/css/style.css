@@ -37,15 +37,14 @@ form div{
   width: 44rem;
 }
 
-.form-labell {
+.form-label {
   width: 100%; 
   text-align: left; 
-  min-width: max-content;
   align-self: center;
 }
 
 .btn {
-  width: 42.45rem;
+  width: 100%
 }
 
 #loading {
